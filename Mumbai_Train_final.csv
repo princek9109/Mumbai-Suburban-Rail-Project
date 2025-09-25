@@ -1,0 +1,203 @@
+Station,Station Code,Line,Distance From Previous of the Line,Time taken From Previous of the Line,Platforms,Tracks,Year of Opening,Footfall (lakhs),Attraction Popularity Score
+Churchgate,CCG,Western,0 KM,0 min,4.0,4.0,1867.0,9.0,12.0
+Marine Lines,MEL,Western,1 KM,3 min,4.0,4.0,1867.0,9.01,12.0
+Charni Road,CYR,Western,1 KM,2 min,4.0,4.0,1867.0,6.0,13.0
+Grant Road,GTR,Western,1 KM,3 min,4.0,4.0,,7.2,9.0
+Mumbai Central,MMCT,Western,1 KM,2 min,9.0,9.0,1930.0,11.25,12.0
+Mahalakshmi,MX,Western,1 KM,3 min,3.0,3.0,1867.0,6.75,15.75
+Lower Parel,PL,Western,2 KM,3 min,3.0,5.0,1867.0,1.35,4.050000000000001
+Prabhadevi,PBHD,Western,1 KM,3 min,2.0,7.0,1867.0,0.9,2.7
+Dadar,D/DR/DDR,Western,1 KM,2 min,15.0,13.0,1868.0,6.76,20.28
+Matunga Road,MRU,Western,2 KM,2 min,2.0,5.0,1867.0,0.91,2.73
+Mahim Jn,MM,Western,1 KM,3 min,6.0,6.0,,2.7,8.100000000000001
+Bandra,B/BA,Western,2 KM,4 min,7.0,8.0,1869.0,3.15,9.45
+Khar Road,KHAR,Western,2 KM,3 min,6.0,6.0,1924.0,2.71,8.129999999999999
+Santacruz,STC,Western,1 KM,2 min,6.0,8.0,1888.0,2.72,8.16
+Vile Parle,VLP,Western,2 KM,3 min,6.0,7.0,,2.73,8.19
+Andheri,A/AD/ADH,Western,2 KM,5 min,9.0,9.0,1928.0,4.05,12.149999999999999
+Jogeshwari,JOS,Western,2 KM,3 min,6.0,7.0,1867.0,2.74,8.22
+Ram Mandir,RMAR,Western,2 KM,3 min,4.0,7.0,2016.0,1.8,5.4
+Goregaon,GMN,Western,3 KM,2 min,7.0,8.0,1867.0,3.16,9.48
+Malad,MDD,Western,2 KM,4 min,4.0,5.0,,1.81,5.43
+Kandivali,KLE,Western,1 KM,3 min,4.0,4.0,1907.0,1.82,5.46
+Borivali,BO/BVI,Western,3 KM,6 min,10.0,9.0,,4.5,13.5
+Dahisar,DIC,Western,2 KM,5 min,4.0,4.0,,1.83,5.49
+Mira Road,MIRA,Western,3 KM,5 min,4.0,4.0,,1.84,5.5200000000000005
+Bhayander,BY,Western,3 KM,5 min,6.0,6.0,,2.75,8.25
+Naigaon,NIG,Western,6 KM,6 min,3.0,4.0,,1.36,5.44
+Vasai Road,BSR/BS,Western,4 KM,5 min,8.0,9.0,1864.0,3.6,10.8
+Nalla Sopara,NSP,Western,4 KM,5 min,4.0,4.0,,1.85,5.550000000000001
+Virar,VR,Western,4 KM,6 min,8.0,9.0,,3.61,10.83
+Vaitarna,VTN,Western,8 KM,9 min,2.0,2.0,,0.92,2.7600000000000002
+Saphale,SAH,Western,8 KM,8 min,2.0,3.0,,0.93,2.79
+Kelve Road,KLV,Western,6 KM,8 min,3.0,3.0,,1.37,4.11
+Palghar,PLG,Western,8 KM,15 min,3.0,5.0,1893.0,1.38,4.14
+Umroli Road,UOI,Western,6 KM,6 min,2.0,2.0,,0.94,2.82
+Boisar,BOR,Western,6 KM,6 min,3.0,5.0,,1.39,4.17
+Vangaon,VGN,Western,9 KM,9 min,3.0,4.0,,1.4,4.199999999999999
+Dahanu Road,DRD,Western,12 KM,13 min,5.0,6.0,1898.0,2.25,6.75
+CSMT,CSMT/ST,Central 1,0 KM,0 min,7.0,7.0,1878.0,11.55,14.0
+Masjid,MSD,Central 1,1 KM,3 min,4.0,6.0,1877.0,6.01,13.01
+Sandhurst Road,SNRD,Central 1,1 KM,2 min,4.0,6.0,1921.0,6.02,13.02
+Byculla,BY,Central 1,2 KM,3 min,4.0,4.0,1853.0,1.86,5.58
+Chinchpokli,CHG,Central 1,1 KM,2 min,2.0,3.0,1877.0,3.9,12.8
+Currey Road,CRD,Central 1,1 KM,2 min,2.0,4.0,1915.0,6.3,15.3
+Parel,PR,Central 1,2 KM,3 min,3.0,3.0,1877.0,1.41,4.2299999999999995
+Dadar,D/DR/DDR,Central 1,1 KM,3 min,15.0,13.0,1868.0,6.77,20.31
+Matunga,MTN,Central 1,1 KM,3 min,4.0,4.0,1865.0,1.87,5.61
+Sion,SIN,Central 1,1 KM,4 min,4.0,4.0,1853.0,1.88,5.64
+Kurla,C/CH,Central 1,1 KM,4 min,8.0,8.0,1879.0,3.62,10.86
+Vidhyavihar,VVH,Central 1,2 KM,3 min,2.0,2.0,1865.0,0.95,2.8499999999999996
+Ghatkopar,G,Central 1,2 KM,3 min,4.0,7.0,1877.0,1.89,5.67
+Vikhroli,VK,Central 1,4 KM,5 min,4.0,5.0,1947.0,1.9,5.699999999999999
+Kanjur Marg,KJMG,Central 1,2 KM,3 min,3.0,6.0,1968.0,1.42,4.26
+Bhandup,BND,Central 1,2 KM,3 min,4.0,7.0,1853.0,1.91,5.7299999999999995
+Nahur,NHU,Central 1,1 KM,3 min,2.0,4.0,2006.0,0.96,2.88
+Mulund,MLND,Central 1,2 KM,3 min,4.0,6.0,1931.0,1.92,5.76
+Thane,TNA,Central 1,2 KM,4 min,10.0,10.0,1853.0,4.51,13.53
+Kalva,KLVA,Central 1,2 KM,4 min,4.0,4.0,,1.93,5.79
+Mumbra,MBQ,Central 1,3 KM,6 min,4.0,4.0,1865.0,1.94,5.82
+Diva Jn,DIVA,Central 1,3 KM,4 min,8.0,13.0,1877.0,3.63,10.89
+Kopar,KOPR,Central 1,4 KM,5 min,2.0,2.0,,0.97,2.91
+Dombivli,DI,Central 1,1 KM,3 min,5.0,7.0,1886.0,2.26,6.779999999999999
+Thakurli,THK,Central 1,1 KM,3 min,2.0,3.0,,0.98,2.94
+Kalyan,KYN,Central 1,3 KM,6 min,8.0,9.0,,3.64,10.92
+Vithalwadi,VLDI,Central 1,2 KM,5 min,2.0,2.0,,0.99,2.9699999999999998
+Ulhas Nagar,ULNR,Central 1,1 KM,3 min,2.0,2.0,,1.0,3.0
+Ambernath,ABH,Central 1,3 KM,6 min,3.0,3.0,,1.43,4.29
+Badalpur,BUD,Central 1,7 KM,8 min,3.0,3.0,,1.44,4.32
+Vangani,VGI,Central 1,11 KM,9 min,2.0,2.0,,1.01,3.0300000000000002
+Shelu,SHLU,Central 1,4 KM,4 min,2.0,2.0,,1.02,3.06
+Neral,NRL,Central 1,4 KM,4 min,2.0,2.0,,1.03,3.09
+Bhivpuri Road,BVS,Central 1,7 KM,7 min,2.0,2.0,,1.04,3.12
+Karjat,KJT/S,Central 1,7 KM,9 min,3.0,5.0,,1.45,4.35
+Palasdhari,PDI,Central 1,3 KM,5 min,1.0,3.0,,0.45,1.35
+Kelavli,KLY,Central 1,5 KM,7 min,1.0,1.0,,0.46,1.3800000000000001
+Dolavli,DLV,Central 1,1 KM,3 min,1.0,1.0,,0.47,1.41
+Lowjee,LWJ,Central 1,3 KM,4 min,1.0,1.0,,0.48,1.44
+Khopoli,KP,Central 1,3 KM,6 min,2.0,3.0,,1.05,3.1500000000000004
+CSMT,CSMT/ST,Central 2,0 KM,0 min,7.0,7.0,1878.0,11.56,14.0
+Masjid,MSD,Central 2,1 KM,3 min,4.0,6.0,1877.0,6.03,13.030000000000001
+Sandhurst Road,SNRD,Central 2,1 KM,2 min,4.0,6.0,1921.0,6.04,13.04
+Byculla,BY,Central 2,2 KM,3 min,4.0,4.0,1853.0,1.95,5.85
+Chinchpokli,CHG,Central 2,1 KM,2 min,2.0,3.0,1877.0,3.91,12.82
+Currey Road,CRD,Central 2,1 KM,2 min,2.0,4.0,1915.0,6.31,15.309999999999999
+Parel,PR,Central 2,2 KM,3 min,3.0,3.0,1877.0,1.46,4.38
+Dadar,D/DR/DDR,Central 2,1 KM,3 min,15.0,13.0,1868.0,6.78,20.34
+Matunga,MTN,Central 2,1 KM,3 min,4.0,4.0,,1.96,5.88
+Sion,SIN,Central 2,1 KM,4 min,4.0,4.0,,1.97,5.91
+Kurla,C/CH,Central 2,1 KM,4 min,8.0,8.0,1879.0,3.65,10.95
+Vidhyavihar,VVH,Central 2,2 KM,3 min,2.0,2.0,1865.0,1.06,3.18
+Ghatkopar,G,Central 2,2 KM,3 min,4.0,7.0,1877.0,1.98,5.9399999999999995
+Vikhroli,VK,Central 2,4 KM,5 min,4.0,5.0,,1.99,5.97
+Kanjur Marg,KJMG,Central 2,2 KM,3 min,3.0,6.0,1968.0,1.47,4.41
+Bhandup,BND,Central 2,2 KM,3 min,4.0,7.0,1853.0,2.0,6.0
+Nahur,NHU,Central 2,1 KM,3 min,2.0,4.0,2006.0,1.07,3.21
+Mulund,MLND,Central 2,2 KM,3 min,4.0,6.0,1931.0,2.01,6.029999999999999
+Thane,TNA,Central 2,2 KM,4 min,10.0,10.0,1853.0,4.52,13.559999999999999
+Kalva,KLVA,Central 2,2 KM,4 min,4.0,4.0,,2.02,6.0600000000000005
+Mumbra,MBQ,Central 2,3 KM,6 min,4.0,4.0,,2.03,6.09
+Diva Jn,DIVA,Central 2,3 KM,4 min,8.0,13.0,,3.66,10.98
+Kopar,KOPR,Central 2,4 KM,5 min,2.0,2.0,,1.08,3.24
+Dombivli,DI,Central 2,1 KM,3 min,5.0,7.0,1886.0,2.27,6.8100000000000005
+Thakurli,THK,Central 2,1 KM,3 min,2.0,3.0,,1.09,3.2700000000000005
+Kalyan,KYN,Central 2,3 KM,6 min,8.0,9.0,,3.67,11.01
+Shahad,SHAD,Central 2,3 KM,5 min,2.0,2.0,,1.1,3.3000000000000003
+Ambivli,ABY,Central 2,2 KM,3 min,2.0,2.0,,1.11,3.33
+Titwala,TLA,Central 2,6 KM,5 min,3.0,3.0,,1.48,4.4399999999999995
+Khadavli,KDV,Central 2,7 KM,8 min,2.0,2.0,,1.12,3.3600000000000003
+Vasind,VSD,Central 2,8 KM,8 min,2.0,6.0,,1.13,3.3899999999999997
+Asangaon,ASO,Central 2,6 KM,6 min,2.0,4.0,,1.14,3.42
+Atagaon,ATG,Central 2,9 KM,9 min,2.0,4.0,,1.15,3.4499999999999997
+Thansit,THS,Central 2,7 KM,7 min,2.0,,,1.16,3.4799999999999995
+Khardi,KE,Central 2,5 KM,5 min,2.0,4.0,,1.17,3.51
+Umbermali,OMB,Central 2,6 KM,6 min,2.0,,,1.18,3.54
+Kasara,KSRA,Central 2,12 KM,12 min,4.0,10.0,,2.04,6.12
+CSMT,CSMT/ST,Harbour,0 KM,0 min,7.0,7.0,,11.57,14.0
+Masjid,MSD,Harbour,1 KM,3 min,4.0,6.0,,6.05,13.05
+Sandhurst Road,SNRD,Harbour,1 KM,2 min,4.0,6.0,,6.06,13.059999999999999
+Dockyarad Road,DKRD,Harbour,2 KM,2 min,2.0,2.0,,3.92,12.84
+Reay Road,RRD,Harbour,1 KM,2 min,2.0,2.0,1910.0,3.93,12.86
+Cotton Green,CTGN,Harbour,1 KM,2 min,3.0,2.0,,4.35,13.7
+Sewri,SVE,Harbour,1 KM,3 min,2.0,2.0,,3.94,12.879999999999999
+Vadala Road,VDLR,Harbour,2 KM,3 min,4.0,4.0,,2.05,6.1499999999999995
+GTB Nagar,GTBN,Harbour,2 KM,4 min,1.0,2.0,,0.49,1.47
+Chunabhatti,CHF,Harbour,2 KM,3 min,2.0,2.0,,1.19,3.57
+Kurla,C/CH,Harbour,2 KM,3 min,8.0,8.0,,3.68,11.040000000000001
+Tilaknagar,TKNG,Harbour,2 KM,3 min,2.0,2.0,,1.2,3.5999999999999996
+Chembur,CMBR,Harbour,1 KM,2 min,2.0,2.0,1906.0,1.21,3.63
+Govandi,GV,Harbour,3 KM,3 min,2.0,2.0,,1.22,3.66
+Mankhurd,MNKD,Harbour,3 KM,3 min,2.0,2.0,,1.23,3.69
+Vashi,VSH,Harbour,8 KM,8 min,4.0,4.0,1992.0,2.06,6.18
+Sanpada,SNCR,Harbour,3 KM,3 min,4.0,4.0,,2.07,6.209999999999999
+Juinagar,JNJ,Harbour,5 KM,5 min,6.0,4.0,,2.76,8.28
+Nerul,NEU,Harbour,3 KM,3 min,6.0,6.0,,2.77,8.31
+Seawood Darave,SWDV,Harbour,3 KM,3 min,4.0,4.0,,2.08,6.24
+Belapur CBD,BEPR,Harbour,4 KM,4 min,4.0,4.0,,2.09,6.27
+Kharghar,KHAG,Harbour,4 KM,4 min,4.0,4.0,,2.1,6.300000000000001
+Mansarovar,MANR,Harbour,3 KM,3 min,2.0,2.0,2008.0,1.24,3.7199999999999998
+Khandeshwar,KNDS,Harbour,3 KM,3 min,2.0,2.0,,1.25,3.75
+Panvel,PNVL,Harbour,3 KM,3 min,7.0,10.0,1962.0,3.17,9.51
+Thane,TNA,Trans Harbour,0 KM,0 min,10.0,10.0,,4.53,13.59
+Airoli,AIRL,Trans Harbour,8 KM,8 min,2.0,2.0,,1.26,3.7800000000000002
+Rabale,RABE,Trans Harbour,3 KM,3 min,2.0,2.0,2007.0,1.27,3.81
+Ghansoli,GNSL,Trans Harbour,3 KM,3 min,2.0,2.0,2004.0,1.28,3.84
+Koparkhairane,KPHN,Trans Harbour,3 KM,3 min,2.0,2.0,2004.0,1.29,3.87
+Turbhe,TUH,Trans Harbour,4 KM,4 min,4.0,4.0,,2.11,6.33
+Juinagar,JNJ,Trans Harbour,5 KM,5 min,6.0,4.0,,2.78,8.34
+Nerul,NEU,Trans Harbour,3 KM,3 min,6.0,6.0,,2.79,8.370000000000001
+Seawood Darave,SWDV,Trans Harbour,3 KM,3 min,4.0,4.0,,2.12,6.36
+Belapur CBD,BEPR,Trans Harbour,4 KM,4 min,4.0,4.0,,2.13,6.39
+Kharghar,KHAG,Trans Harbour,4 KM,4 min,4.0,4.0,,2.14,6.42
+Mansarovar,MANR,Trans Harbour,3 KM,3 min,2.0,2.0,2008.0,1.3,3.9000000000000004
+Khandeshwar,KNDS,Trans Harbour,3 KM,3 min,2.0,2.0,,1.31,3.93
+Panvel,PNVL,Trans Harbour,3 KM,3 min,7.0,10.0,1962.0,3.18,9.540000000000001
+Nerul,NEU,Uran,0 KM,0 min,6.0,6.0,,2.8,8.399999999999999
+Seawood Darave,SWDV,Uran,3 KM,3 min,4.0,4.0,,2.15,6.449999999999999
+Belapur CBD,BEPR,Uran,4 KM,4 min,4.0,4.0,,2.16,6.48
+Bamandongri,BMNDG,Uran,9 KM,12 min,2.0,2.0,2018.0,1.32,3.96
+Kharkopar,KARP,Uran,3 KM,4 min,2.0,2.0,2018.0,1.33,3.99
+Diva Jn,DIVA,Diva-Roha,0 KM,0 min,8.0,13.0,,3.69,11.07
+Dativali,DTVL,Diva-Roha,2 KM,5 min,3.0,2.0,,1.49,4.47
+Nilje,NIIJ,Diva-Roha,4 KM,11 min,2.0,4.0,1966.0,1.34,4.0200000000000005
+Taloja Panchanand,TPND,Diva-Roha,6 KM,9 min,2.0,4.0,1966.0,1.35,4.050000000000001
+Navade Road,NVRD,Diva-Roha,4 KM,7 min,3.0,4.0,1966.0,1.5,4.5
+Kalamboli,KLMG,Diva-Roha,2 KM,3 min,2.0,4.0,1966.0,1.36,4.08
+Panvel,PNVL,Diva-Roha,4 KM,16 min,7.0,10.0,1962.0,3.19,9.57
+Somtane,SMNE,Diva-Roha,7 KM,10 min,2.0,4.0,,1.37,4.11
+Rasayani,RSYI,Diva-Roha,6 KM,7 min,2.0,2.0,,1.38,4.14
+Apta,APTA,Diva-Roha,4 KM,9 min,2.0,4.0,,1.39,4.17
+Jite,JITE,Diva-Roha,10 KM,5 min,2.0,4.0,,1.4,4.199999999999999
+Hamarapur,HPUR,Diva-Roha,5 KM,14 min,2.0,2.0,,1.41,4.2299999999999995
+Pen,PEN,Diva-Roha,6 KM,6 min,3.0,7.0,,1.51,4.53
+Kasu,KASU,Diva-Roha,13 KM,14 min,2.0,4.0,,1.42,4.26
+Nagothane,NGTN,Diva-Roha,14 KM,14 min,2.0,6.0,,1.43,4.29
+Nidi,NIDI,Diva-Roha,5 KM,10 min,2.0,2.0,,1.44,4.32
+Roha,ROHA,Diva-Roha,10 KM,20 min,3.0,7.0,1986.0,1.52,4.5600000000000005
+Dahanu Road,DRD,Dahanu-Virar-Panvel,0 KM,0 min,5.0,6.0,,2.28,6.84
+Vangaon,VGN,Dahanu-Virar-Panvel,9 KM,9 min,3.0,4.0,,1.53,4.59
+Boisar,BOR,Dahanu-Virar-Panvel,6 KM,6 min,3.0,5.0,,1.54,4.62
+Umroli Road,UOI,Dahanu-Virar-Panvel,6 KM,6 min,2.0,2.0,,1.45,4.35
+Palghar,PLG,Dahanu-Virar-Panvel,8 KM,15 min,3.0,5.0,,1.55,4.65
+Kelva Road,KLV,Dahanu-Virar-Panvel,6 KM,8 min,3.0,3.0,,1.56,4.68
+Saphale,SAH,Dahanu-Virar-Panvel,8 KM,8 min,2.0,3.0,,1.46,4.38
+Vaitarna,VTN,Dahanu-Virar-Panvel,8 KM,9 min,2.0,2.0,,1.47,4.41
+Virar,VR,Dahanu-Virar-Panvel,4 KM,6 min,8.0,9.0,,3.7,11.100000000000001
+Nalla Sopara,NSP,Dahanu-Virar-Panvel,4 KM,5 min,4.0,4.0,,2.17,6.51
+Vasai Road,BSR/BS,Dahanu-Virar-Panvel,4 KM,5 min,8.0,9.0,,3.71,11.129999999999999
+Juchandra Road,JCNR,Dahanu-Virar-Panvel,4 KM,6 min,,,,1.48,4.4399999999999995
+Kaman Road,KARD,Dahanu-Virar-Panvel,7 KM,6 min,3.0,4.0,,1.57,4.71
+Kharbao,KHBV,Dahanu-Virar-Panvel,7 KM,7 min,4.0,,,2.18,6.540000000000001
+Bhiwandi Road,BIRD,Dahanu-Virar-Panvel,8 KM,10 min,5.0,,,2.29,6.87
+Kopar,KOPR,Dahanu-Virar-Panvel,8 KM,12 min,2.0,2.0,,1.49,4.47
+Dativali,DTVL,Dahanu-Virar-Panvel,3 KM,8 min,3.0,2.0,,1.58,4.74
+Nilje,NIIJ,Dahanu-Virar-Panvel,4 KM,11 min,2.0,4.0,1966.0,1.5,4.5
+Taloja Panchanand,TPND,Dahanu-Virar-Panvel,6 KM,9 min,2.0,4.0,1966.0,1.51,4.53
+Navade Road,NVRD,Dahanu-Virar-Panvel,4 KM,7 min,3.0,4.0,1966.0,1.59,4.7700000000000005
+Kalamboli,KLMG,Dahanu-Virar-Panvel,2 KM,3 min,2.0,4.0,1966.0,1.52,4.5600000000000005
+Panvel,PNVL,Dahanu-Virar-Panvel,4 KM,16 min,7.0,10.0,1962.0,3.2,9.600000000000001
+Neral,NRL,Neral-Matheran,0 KM,0 min,2.0,2.0,,1.53,4.59
+Jumapatti,JTT,Neral-Matheran,5 KM,46 min,,,,1.54,4.62
+Waterpipe,WTP,Neral-Matheran,6 KM,46 min,,,,1.55,4.65
+Aman Lodge,AMNA,Neral-Matheran,7 KM,50 min,,,,1.56,4.68
+Matheran,MAE,Neral-Matheran,2 KM,18 min,,,1907.0,1.57,4.71
