@@ -9,18 +9,23 @@ Suggest optimal train schedules and infrastructure improvements.
 Provide actionable insights for urban planning and transport management.
 ## Dataset
 The project utilizes datasets containing:
-
 Train schedules and frequency
 Passenger volume by route and time
 Station-wise traffic data
 Demographic and geographic information of the Mumbai Metropolitan Region
+
 ## Methodology
 Data Cleaning & Preprocessing: Handling missing values, standardizing formats, and aggregating relevant features.
 Exploratory Data Analysis (EDA): Visualizing traffic patterns, peak hours, and underutilized routes.
 Optimization Analysis: Applying statistical and machine learning techniques to propose improvements in scheduling and resource allocation.
 Visualization & Reporting: Presenting insights through dashboards, charts, and comprehensive reports.
-Folder Structure
-├── Data/ # Raw and processed datasets ├── Report/ # Analysis reports, findings, and recommendations ├── src/ # Source code and notebooks ├── README.md # Project documentation └── LICENSE # MIT License
+
+## Folder Structure
+ ├── Data/ # Raw and processed datasets 
+ ├── Report/ # Analysis reports, findings, and recommendations
+ ├── src/ # Source code and notebooks
+ ├── README.md # Project documentation 
+ └── LICENSE # MIT License
 
 ## 📖 Contents
 Executive Summary – Key findings and recommendations
