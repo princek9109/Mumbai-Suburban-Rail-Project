@@ -32,6 +32,11 @@ The project utilizes datasets containing:
 
 ## 📁 Folder Structure
 
+- [📂 Data/](Data) → Raw and processed datasets  
+- [📂 Report/](Report) → Analysis reports and recommendations  
+- [📂 src/](src) → Source code and notebooks  
+- [📄 README.md](README.md) → Project documentation  
+- [📄 LICENSE](LICENSE) → License information  
 
 
 
