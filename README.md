@@ -1,4 +1,4 @@
-# 🚉 Strategic-Optimization-of-Mumbai-Suburban-Rail
+# Strategic-Optimization-of-Mumbai-Suburban-Rail
 
 ## Overview
 This project focuses on analyzing and optimizing the **Mumbai Suburban Rail network**, one of the busiest suburban railway systems in the world. By leveraging data analytics, the project aims to identify overcrowded corridors, underutilized routes, and strategic interventions to improve efficiency, passenger experience, and resource allocation.
