@@ -1,11 +1,11 @@
 # 🚉 Strategic-Optimization-of-Mumbai-Suburban-Rail
 
-## 📌 Overview
+## Overview
 This project focuses on analyzing and optimizing the **Mumbai Suburban Rail network**, one of the busiest suburban railway systems in the world. By leveraging data analytics, the project aims to identify overcrowded corridors, underutilized routes, and strategic interventions to improve efficiency, passenger experience, and resource allocation.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze passenger flow and train frequency across the network  
 - Identify bottlenecks and high-demand segments  
 - Suggest optimal train schedules and infrastructure improvements  
@@ -13,7 +13,7 @@ This project focuses on analyzing and optimizing the **Mumbai Suburban Rail netw
 
 ---
 
-## 📂 Dataset
+## Dataset
 The project utilizes datasets containing:
 - Train schedules and frequency  
 - Passenger volume by route and time  
@@ -22,7 +22,7 @@ The project utilizes datasets containing:
 
 ---
 
-## 🔬 Methodology
+## Methodology
 1. **Data Cleaning & Preprocessing** – Handle missing values, standardize formats, aggregate relevant features  
 2. **Exploratory Data Analysis (EDA)** – Visualize traffic patterns, peak hours, and underutilized routes  
 3. **Optimization Analysis** – Apply statistical and ML techniques for scheduling and resource allocation  
@@ -30,19 +30,19 @@ The project utilizes datasets containing:
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
-- [📂 Data/](Data) → Raw and processed datasets  
-- [📂 Report/](Report) → Analysis reports and recommendations  
-- [📂 src/](src) → Source code and notebooks  
-- [📄 README.md](README.md) → Project documentation  
-- [📄 LICENSE](LICENSE) → License information  
+- [ Data/](Data) → Raw and processed datasets  
+- [ Report/](Report) → Analysis reports and recommendations  
+- [ src/](src) → Source code and notebooks  
+- [ README.md](README.md) → Project documentation  
+- [ LICENSE](LICENSE) → License information  
 
 
 
 ---
 
-## 📖 Contents
+## Contents
 - **Executive Summary** – Key findings and recommendations  
 - **Situation Analysis** – Current network, demographics, and growth trends  
 - **Strategic Recommendations** – Infrastructure, services, passenger experience, and development  
@@ -51,39 +51,39 @@ The project utilizes datasets containing:
 
 ---
 
-## 🎯 Key Recommendations
-### 🏗️ Infrastructure Enhancements
+##  Key Recommendations
+### Infrastructure Enhancements
 - Add dedicated tracks in high-demand corridors  
 - Extend platforms and modernize junction stations  
 
-### 🚉 Service Optimization
+### Service Optimization
 - Increase express trains during peak hours  
 - Improve frequency in suburban growth areas  
 - Add new stations in underserved zones  
 
-### 😀 Passenger Experience
+### Passenger Experience
 - Real-time travel information (apps, displays)  
 - Seat reservations for intercity services  
 - Integrated last-mile connectivity hubs  
 
-### 🌆 Strategic Development
+### Strategic Development
 - Transit-Oriented Development (TOD) near stations  
 - Rail connectivity for industrial corridors  
 - Improved services for tourism-oriented routes  
 
 ---
 
-## 🚀 Impact Goals
-- 📈 Increase peak-hour capacity  
-- ⏱️ Reduce travel times for long-distance commuters  
-- 📊 Improve reliability and punctuality  
-- 😀 Enhance passenger satisfaction  
-- 🌆 Balance use of urban and suburban corridors  
-- 🏙️ Expand accessibility in growing suburbs  
+## Impact Goals
+- Increase peak-hour capacity  
+- Reduce travel times for long-distance commuters  
+- Improve reliability and punctuality  
+- Enhance passenger satisfaction  
+- Balance use of urban and suburban corridors  
+- Expand accessibility in growing suburbs  
 
 ---
 
-## 🛠️ Roadmap
+## Roadmap
 - Add visualization notebooks in `src/`  
 - Expand datasets in `Data/` with updated figures  
 - Publish stakeholder-friendly summary slides in `Report/`  
@@ -91,7 +91,7 @@ The project utilizes datasets containing:
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 1. **Clone the repo**
    ```bash
@@ -122,7 +122,7 @@ Or launch the interactive Jupyter Notebook:
 bash
 Copy code
 jupyter notebook main.ipynb
-🤝 Contributing
+Contributing
 We welcome contributions, feedback, and ideas.
 
 Fork the repository
@@ -135,13 +135,13 @@ Push to branch (git push origin feature-name)
 
 Open a Pull Request
 
-📜 License
+License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-👤 Author
+Author
 Prince Kumar
 Prepared for Mumbai Suburban Rail Corporation (MSRC)
-📅 Date: April 20, 2025
+Date: April 20, 2025
 
 
 
